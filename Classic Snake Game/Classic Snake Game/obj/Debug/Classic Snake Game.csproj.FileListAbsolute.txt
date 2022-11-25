@@ -1,0 +1,22 @@
+G:\c#\winform\Classic Snake Game\Classic Snake Game\bin\Debug\Classic Snake Game.exe.config
+G:\c#\winform\Classic Snake Game\Classic Snake Game\bin\Debug\Classic Snake Game.exe
+G:\c#\winform\Classic Snake Game\Classic Snake Game\bin\Debug\Classic Snake Game.pdb
+G:\c#\winform\Classic Snake Game\Classic Snake Game\obj\Debug\Classic Snake Game.csproj.AssemblyReference.cache
+G:\c#\winform\Classic Snake Game\Classic Snake Game\obj\Debug\Classic Snake Game.csproj.SuggestedBindingRedirects.cache
+G:\c#\winform\Classic Snake Game\Classic Snake Game\obj\Debug\Classic_Snake_Game.Form1.resources
+G:\c#\winform\Classic Snake Game\Classic Snake Game\obj\Debug\Classic_Snake_Game.Properties.Resources.resources
+G:\c#\winform\Classic Snake Game\Classic Snake Game\obj\Debug\Classic Snake Game.csproj.GenerateResource.cache
+G:\c#\winform\Classic Snake Game\Classic Snake Game\obj\Debug\Classic Snake Game.csproj.CoreCompileInputs.cache
+G:\c#\winform\Classic Snake Game\Classic Snake Game\obj\Debug\Classic Snake Game.exe
+G:\c#\winform\Classic Snake Game\Classic Snake Game\obj\Debug\Classic Snake Game.pdb
+G:\nam4\c#\winform\Classic Snake Game\Classic Snake Game\bin\Debug\Classic Snake Game.exe.config
+G:\nam4\c#\winform\Classic Snake Game\Classic Snake Game\bin\Debug\Classic Snake Game.exe
+G:\nam4\c#\winform\Classic Snake Game\Classic Snake Game\bin\Debug\Classic Snake Game.pdb
+G:\nam4\c#\winform\Classic Snake Game\Classic Snake Game\obj\Debug\Classic Snake Game.csproj.AssemblyReference.cache
+G:\nam4\c#\winform\Classic Snake Game\Classic Snake Game\obj\Debug\Classic Snake Game.csproj.SuggestedBindingRedirects.cache
+G:\nam4\c#\winform\Classic Snake Game\Classic Snake Game\obj\Debug\Classic_Snake_Game.Form1.resources
+G:\nam4\c#\winform\Classic Snake Game\Classic Snake Game\obj\Debug\Classic_Snake_Game.Properties.Resources.resources
+G:\nam4\c#\winform\Classic Snake Game\Classic Snake Game\obj\Debug\Classic Snake Game.csproj.GenerateResource.cache
+G:\nam4\c#\winform\Classic Snake Game\Classic Snake Game\obj\Debug\Classic Snake Game.csproj.CoreCompileInputs.cache
+G:\nam4\c#\winform\Classic Snake Game\Classic Snake Game\obj\Debug\Classic Snake Game.exe
+G:\nam4\c#\winform\Classic Snake Game\Classic Snake Game\obj\Debug\Classic Snake Game.pdb
